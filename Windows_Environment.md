@@ -14,7 +14,6 @@ Below dev tools are needed installing with setting.
 - Maven
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)
 - Ruby by [RubyInstaller](https://rubyinstaller.org/)
-- [GnuPG](https://www.gnupg.org/)
 - [Tera Term](https://ttssh2.osdn.jp/)
 - [VirtualBox](http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html?ssSourceSiteId=otnjp)
 - [Vagrant](https://www.vagrantup.com/)
