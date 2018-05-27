@@ -4,10 +4,10 @@
 
 Below dev tools are needed installing with setting.
 
+- Hidemaru Editor
+- [Git for Windows](https://gitforwindows.org/)
 - [Golang](https://golang.org/)
 - [Visual Studio Code](https://www.microsoft.com/ja-jp/dev/products/code-vs.aspx)
-- Hidemaru Editor
-- Git with Git Bash [Git for Windows](https://gitforwindows.org/)
 - JDK later 8
 - sbt
 - Gradle
@@ -32,3 +32,7 @@ Then, construct Virtual Machine for local.
 - cent7_local
 
 ## Specific setting needed tools
+
+### Ruby by RubyInstaller
+
+- Install 
