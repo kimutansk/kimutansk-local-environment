@@ -35,3 +35,17 @@ Then, construct Virtual Machine for local.
 ### Ruby by RubyInstaller
 
 - Install 
+
+### Golang
+
+### Visual Studio Code
+
+- Setup for Golang development.
+
+
+
+### VirtualBox
+
+- Set `Default VirtualMachine Folder` to `C:\Develop\Environment\VirtualMachine`
+
+
