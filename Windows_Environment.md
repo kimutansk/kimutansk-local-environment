@@ -32,9 +32,14 @@ Then, construct Virtual Machine for local.
 
 ## Specific setting needed tools
 
-### Ruby by RubyInstaller
+### Git for Windows
 
-- Install 
+```bash
+$ git config --global user.name [GitHub UserId]
+$ git config --global user.email [GitHub MailAddress]
+$ git config --global user.signingkey [GitHub GPG Key]
+$ git config --global gpg.program /usr/bin/gpg
+```
 
 ### Golang
 
@@ -42,10 +47,15 @@ Then, construct Virtual Machine for local.
 
 - Setup for Golang development.
 
+### Ruby by RubyInstaller
 
+- Install develop environment gems.
+
+```bash
+$ gem install rake
+$ gem install bunlder
+```
 
 ### VirtualBox
 
 - Set `Default VirtualMachine Folder` to `C:\Develop\Environment\VirtualMachine`
-
-
